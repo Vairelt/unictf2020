@@ -380,5 +380,5 @@ with open("private.der","wb") as f:
 And lets try to solve next task
 
 # Client Handler
-Nobody solved this task. no writeup(because will just take up too much space, and solution way is same as the previous tasks)))
+No writeup, only solution(because will just take up too much space, and solution way is same as the previous tasks)))
 Have some written solution but it's on C(or python)
